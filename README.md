@@ -42,4 +42,4 @@ Hi, my name is Dhruv and I'm a college student with a passion for web developmen
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
                     </picture>
-                    </a></p>### Badges<a href="https://github.com/DMZTdhruv" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMZTdhruv&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=64748b&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+                    </a></p><a href="https://github.com/DMZTdhruv" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMZTdhruv&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=64748b&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
