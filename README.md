@@ -8,7 +8,7 @@ Hi, my name is Dhruv and I'm a college student with a passion for web developmen
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [dmxztdhruv@gmail.com](mailto:dmxztdhruv@gmail.com)
-*   🧠  I'm learning I'm learning Next.js, DSA, Python and Node.js
+*   🧠  I'm learning Next.js, DSA, Python and Node.js
 *   🤝  I'm open to collaborating on Anything in web development or in designing
 *   ⚡  I am gym freak 💪 and a dancer.### Skills 
 <p align="left">
