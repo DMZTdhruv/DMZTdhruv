@@ -1,10 +1,9 @@
 Hi 👋 My name is Parmar Dhruv
 =============================
 
-Web Developer and Designer
+TYPESHIT
 --------------------------
 
-Hi, my name is Dhruv and I'm a college student with a passion for web development, programming, and innovative software development, with the goal to help big problems. I have strong skills in HTML5, CSS, JavaScript, Next.js, React.js, I'm a video editor aswell. As a web developer, I'm constantly seeking new challenges and opportunities to refine my craft. Whether I'm building a beautiful design like awwwards website or developing complex applications, I strive for excellence in everything I do. With a strong work ethic and a willingness to learn, I'm eager to take on new projects and make a positive impact in the tech industry.
 
 *   🌍  I'm based in Mars
 *   ✉️  You can contact me at [dmxztdhruv@gmail.com](mailto:dmxztdhruv@gmail.com)
