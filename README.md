@@ -7,10 +7,8 @@ TYPESHIT
 
 
 *   🌍  I'm based in Mars
-*   ✉️  You can contact me at [dmzt.dhruv@gmail.com](mailto:dmzt.dhruv@gmail.com)
 *   🧠  I'm learning Web3, AI and ML
 *   🤝  I'm open to collaborating on Anything in web development or in designing
-*   ⚡  Why not be an evil engineer haha ( jk )
 
 
 <p align="left">
