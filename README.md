@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Dhruv and I'm a software engineer at one of the ai startup, I mostly work with frontend and backend, learning ml and ai side by side by making personal saas projects whenever I get time</p>
+<p align="left">My name is Dhruv and I'm a founding engineer at one of the ai startup, I mostly work with frontend and backend, learning ml and ai side by side by making personal saas projects whenever I get time</p>
 
 ###
 
